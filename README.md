@@ -7,4 +7,4 @@ It doesnt shows the full details of the movie and also it will only show the ima
 
 mn
 m
-o
+
