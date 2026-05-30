@@ -6,3 +6,4 @@ Also we can save our favorite movies.we need to click on the heart icon inorder 
 It doesnt shows the full details of the movie and also it will only show the image and date(only year).
 
 mn
+m
